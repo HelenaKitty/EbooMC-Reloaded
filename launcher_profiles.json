@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10"
+    },
+    "(Default)": {
+      "name": "(Default)"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "1fbc8d09-b9e0-4979-a4df-5bea056f9569",
+  "authenticationDatabase": {},
+  "launcherVersion": {
+    "name": "1.6.73-j",
+    "format": 18,
+    "profilesFormat": 1
+  }
+}
